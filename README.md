@@ -95,6 +95,7 @@ socialList.addEventListener('click', (event) =>{
 
 
 - Frontend Mentor - [@innerweb404-web](https://www.frontendmentor.io/profile/innerweb404-web)
+- Twiiter - https://x.com/brightWeb_3
 
 
 ## Acknowledgments

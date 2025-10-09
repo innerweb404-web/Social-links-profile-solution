@@ -11,7 +11,7 @@ socialList.addEventListener('click', (event) =>{
     Using closest instead of tagName is very necessary if there's
     another element inside the <LI> element.
     */
-    if(event.target.closest('li'){
+    if(event.target.closest('li')){
         socialList.querySelectorAll('li').forEach(li => {
         li.classList.remove('active');
         li.style.cursor = 'pointer';
